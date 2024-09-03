@@ -15,6 +15,8 @@ Sou um Desenvolvedor Mobile focado em desenvolver soluções de qualidade, compr
  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
  <img src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
  <img src ="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E">
+<img src ="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
+ 
 </div>
 
 ## 🧠 Estudando
