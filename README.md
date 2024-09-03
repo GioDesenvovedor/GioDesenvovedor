@@ -5,7 +5,7 @@ Sou um Desenvolvedor Mobile focado em desenvolver soluções de qualidade, compr
 
 ## 🖥️ Conecte-se comigo 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:giobaglio@hotmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/giovanni-baglio)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/giovanni-baglio/)
 
 ## ⚡ Habilidades
 
