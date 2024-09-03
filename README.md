@@ -33,4 +33,6 @@ Sou um Desenvolvedor Mobile focado em desenvolver soluções de qualidade, compr
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioDesenvovedor&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-
+## 📂 Meus Projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GioDesenvovedor&repo=Projeto-Explorer-CEP&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GioDesenvovedor/Projeto-Explorer-CEP)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GioDesenvovedor&repo=Projeto-OS-Digital&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GioDesenvovedor/Projeto-OS-Digital)
